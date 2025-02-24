@@ -1,0 +1,9 @@
+# Ignore system cache & browser files
+AppData/
+*.log
+*.cache
+*.tmp
+node_modules/
+venv/
+env/
+__pycache__/
